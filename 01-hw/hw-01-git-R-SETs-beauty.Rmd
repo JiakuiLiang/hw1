@@ -1,6 +1,9 @@
 ---
 title: "HW 01 - R, RStudio, Git, and GitHub"
 subtitle: "Meet the toolkit"
+author: "Jiakui Liang"
+student ID: "40313785"
+Date: "2022-02-12"
 output: 
   tufte::tufte_html:
     css: ../hw.css
